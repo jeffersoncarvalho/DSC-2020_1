@@ -1,0 +1,25 @@
+
+
+EQUIPES SEMINÁRIO CONCORRENTE
+
+1 - MARYSANGELA E EDUARDO -> Python
+2 - JORDEN E JOAO PEDRO -> Lua
+3 - IGOR E DOUGLAS -> Elixir
+4 - ISAC E CARLOS ALEXANDRE -> Haskell
+5 - WILTON E CLEBSON -> Earlang
+6 - JOSUE E RAFAEL -> Clojure
+7 - IURI E MESSIAS -> Kotlin
+8 - ROBSON E GUILHERME -> Go
+9 - GABRIEL LINS -> C#
+
+
+ 
+Detalhes do seminário:
+
+* 10 a 20 slides, máximo 20 minutos;
+* Introduzir a linguagem (sintaxe, história, propósito, paradigma, etc.)
+* Como a concorrência é implementada na linguagem
+* Pelo menos 3 problemas simples resolvidos na linguagem
+* Pelo menos 1 dos 3 problemas resolvido em uma linguagem usual (Java, Python ou C), e comparativo entre as soluções nas duas linguagens
+* Conclusão (o que foi feito no seminário, dificuldades, avaliação informal final da linguagem)
+* Referências
