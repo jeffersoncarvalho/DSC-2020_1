@@ -1,8 +1,8 @@
-package exe3;
+package teste_exe3;
 
 import java.util.Random;
 
-public class CalculoPI extends Thread{
+public class CalculoPI extends Thread implements ICalculoPI{
 	
 	private int qtdPontosQuadrado;
 	private int tamanhoQuadrado; // começando da coordenada (0,0)

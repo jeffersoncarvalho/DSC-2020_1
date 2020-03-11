@@ -1,4 +1,4 @@
-package exe3;
+package teste_exe3;
 
 public class Delegador {
 
