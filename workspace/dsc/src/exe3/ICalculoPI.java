@@ -1,4 +1,4 @@
-package teste_exe3;
+package exe3;
 
 public interface ICalculoPI {
 	public boolean isPontoNoCirculo(int x, int y, int n);
